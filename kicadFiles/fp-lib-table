@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name M3_Mounting_Hole)(type KiCad)(uri "$(KIPRJMOD)/M3_Mounting_Hole.pretty")(options "")(descr ""))
+  (lib (name M2_Mounting_Hole)(type KiCad)(uri "$(KIPRJMOD)/M2_Mounting_Hole.pretty")(options "")(descr ""))
+)
